@@ -1,3 +1,3 @@
-// WAP to print something about
-// Add mul
+// WAP to print something about you
+// Add multiply two number.
 
