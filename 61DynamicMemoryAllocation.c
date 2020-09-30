@@ -7,7 +7,7 @@
 int main(){
 	
 	int arr[10];
-	printf("%d",sizeof(arr));
+	printf("%d", sizeof(arr));
 	
 	return 0;
 }
