@@ -11,9 +11,9 @@ printf("Enter last name: ");
 gets(lastName);
 
 if(strcmp(firstName, lastName) == 0 ){
-	printf("Both Sring Are Equal");
+	printf("Both String Are Equal");
 }else{
-	printf("Both Sring Are Not Equal");
+	printf("Both String Are Not Equal");
 }
 
 return 0;
